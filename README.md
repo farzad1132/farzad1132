@@ -2,9 +2,10 @@
 
 I am a PhD student at Imperial and my entire research is about performance of microservice at the tail.
 
-Some topics I am working on:
+Some projects I am working on:
 - [Roshanfer (EuroSys'27)](https://github.com/roshanfer-project): Performance resiliency for microservices through ***proactive*** overload control
-- Microservice load balancing (ongoing).
+- Microservice load balancing
+- Self-adaptive microservice infrastructure (auto-scaling, overload control, load balancing)
 
 Feel free to contact me if you have any interesting project (I am also looking for undergraduate research interns).
 
