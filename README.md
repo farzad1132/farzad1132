@@ -7,8 +7,6 @@ Some projects I am working on:
 - Microservice load balancing
 - Self-adaptive microservice infrastructure (auto-scaling, overload control, load balancing)
 
-Feel free to contact me if you have any interesting project (I am also looking for undergraduate research interns).
-
 <!--
 **farzad1132/farzad1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
